@@ -17,7 +17,8 @@ VNG (Videonystagmography) and vHIT (Video Head Impulse Test) clinical diagnostic
 
 ![](report1.gif)
 
-**One 4 minutes video was uploaded on aparat to be more familiar with this application.**
+**One 4 minutes video was uploaded on Google Drive to be more familiar with this application.**
+https://drive.google.com/file/d/1u7QetnDHZq7uc95i6vdJS6vhMlwFRWc4/view?usp=sharing
 
 ---
 
